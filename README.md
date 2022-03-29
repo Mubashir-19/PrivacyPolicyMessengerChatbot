@@ -1,6 +1,6 @@
 # PrivacyPolicy for Messenger Chatbot
 
-This chatbot is made by Mubashir Ahmed.
+Owner Mubashir Ahmed.
 
 It is a sample chatbot that is used as an example for customer satisfaction.
 
